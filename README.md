@@ -6,7 +6,7 @@ Elige una web de tu preferencia(pinterest) y explica qué partes conforman el UX
 ## Pinterest
 
 
-![Color rojo:Ux design /Color amarillo: UI](assets/images/reto1.png)
+![Color rojo:Ux design /Color amarillo: UI](assets/reto1.png)
 
 ## Partes que conforma un UX-designer:
 
